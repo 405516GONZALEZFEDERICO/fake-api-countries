@@ -1,18 +1,24 @@
-[
-  {
-    "name": "Argentina",
-    "flag": "🇦🇷"
-  },
-  {
-    "name": "Brazil",
-    "flag": "🇧🇷"
-  },
-  {
-    "name": "Uruguay",
-    "flag": "🇺🇾"
-  },
-  {
-    "name": "Paraguay",
-    "flag": "🇵🇾"
-  }
-]
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Argentina",
+      "flag": "🇦🇷"
+    },
+    {
+      "id": 2,
+      "name": "Brazil",
+      "flag": "🇧🇷"
+    },
+    {
+      "id": 3,
+      "name": "Uruguay",
+      "flag": "🇺🇾"
+    },
+    {
+      "id": 4,
+      "name": "Paraguay",
+      "flag": "🇵🇾"
+    }
+  ]
+}
