@@ -3,22 +3,27 @@
     {
       "id": 1,
       "name": "Argentina",
-      "flag": "🇦🇷"
+      "flag": "🇦🇷",
+      "url":"https://flagcdn.com/w320/ar.png" 
     },
     {
       "id": 2,
       "name": "Brazil",
-      "flag": "🇧🇷"
+      "flag": "🇧🇷",
+      "url":"https://flagcdn.com/br.svg" 
     },
     {
       "id": 3,
       "name": "Uruguay",
-      "flag": "🇺🇾"
+      "flag": "🇺🇾",
+      "url":"https://flagcdn.com/uy.svg" 
     },
     {
       "id": 4,
       "name": "Paraguay",
-      "flag": "🇵🇾"
+      "flag": "🇵🇾",
+      "url":"https://flagcdn.com/py.svg" 
+      
     }
   ]
 }
